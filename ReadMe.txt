@@ -12,3 +12,6 @@ exit: execute upon exiting the state
 
 
 https://www.itemis.com/en/yakindu/state-machine/documentation/user-guide/sclang_reactions#sclang_reaction_trigger_entry
+
+
+https://www.itemis.com/en/yakindu/state-machine/documentation/examples/org-yakindu-sct-examples-basic-tutorial?utm_campaign=YAKINDU%20Statechart%20Tools&utm_medium=email&_hsmi=80731931&_hsenc=p2ANqtz-_YVhjx5F9qYgBNi2lcD38Rj0sFvVJCZusDYJ4xazYdGRlnahez0FidZ9y3Oy8b6uyu9Kz2qJHo7pIQ9kdl-hs5GBfu8A&utm_content=80731931&utm_source=hs_automation
